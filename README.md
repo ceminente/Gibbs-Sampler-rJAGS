@@ -1,5 +1,5 @@
-# Advanced-Statistics-For-Physics-Analysis
-In the present repository you can find the weekly exercises assigned  as part of the course Advanced Statistics For Physics Analysis at the University of Padua and its final project.
+# Project for Advanced-Statistics-For-Physics-Analysis Course 2018/2019
+In the present repository you can find the final project assigned  as part of the course Advanced Statistics For Physics Analysis at the University of Padua.
 
 ## Project
 ### Authors:
